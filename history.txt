@@ -1,0 +1,971 @@
+    1  gba
+    2  zsh
+    3  sudo chsh -s $(which zsh) $(whoami)
+    4  sudo chsh -s $(which zsh) 
+    5  sudo apt install fonts-powerline
+    6  sudo nano ~/.zshrc
+    7  clear
+    8  code ~/.zshrc
+    9  sudo nano ~/.oh-my-zsh/themes/agnoster.zsh-theme
+   10  ls
+   11  cd utilities
+   12  ls
+   13  code ~/.zshrc
+   14  sudo pip install virtualenv virtualenvwrapper\n
+   15  mkvirtualenv -p $(which python3.7) umuzi-utilities
+   16  python cohort_codes.py
+   17  curl https://automark-sdn7qm5gxa-ew.a.run.app/healthcheck\n
+   18  ^[[200~curl https://automark-sdn7qm5gxa-ew.a.run.app/api/available_options
+   19  ~curl https://automark-sdn7qm5gxa-ew.a.run.app/api/available_options\n
+   20  curl https://automark-sdn7qm5gxa-ew.a.run.app/api/available_options\n
+   21  curl --header "Content-Type: application/json"     --request POST     --data '{"repoUrl": "https://github.com/Sbonelo01/simpleCalculator.git", "projectIdentifier": "tdd/simple-calculator-part1", "option": "js"}'     https://automark-sdn7qm5gxa-ew.a.run.app/api/review-code\n
+   22  sudo apt-get update -y
+   23  ^[[200~sudo apt-get install -y libjs-jquery
+   24  ~sudo apt-get install -y libjs-jquery\n
+   25  sudo apt-get install -y libjs-jquery\n
+   26  curl --header "Content-Type: application/json"     --request POST     --data '{"repoUrl": "https://github.com/Sbonelo01/simpleCalculator.git", "projectIdentifier": "tdd/simple-calculator-part1", "option": "js"}'     https://automark-sdn7qm5gxa-ew.a.run.app/api/review-code\n
+   27  curl https://automark-sdn7qm5gxa-ew.a.run.app/api/available_options\n
+   28  curl --header "Content-Type: application/json"     --request POST     --data '{"repoUrl": "https://github.com/Sbonelo01/simpleCalculator.git", "projectIdentifier": "tdd/simple-calculator-part1", "option": "js"}'     https://automark-sdn7qm5gxa-ew.a.run.app/api/review-code\n
+   29  curl --header "Content-Type: application/json"     --request POST     --data '{"repoUrl": "https://github.com/tarbielee/passwordValidation.git", "projectIdentifier": "projects/tdd/password-checker/part1/", "option": "js"}'     https://automark-sdn7qm5gxa-ew.a.run.app/api/review-code\n
+   30  cd src
+   31  cd gitignore
+   32  curl https://automark-sdn7qm5gxa-ew.a.run.app/api/available_options\n
+   33  curl --header "Content-Type: application/json"     --request POST     --data '{"repoUrl": "https://github.com/Lebogang-cloud/Pass_checker2.git", "projectIdentifier": "projects/tdd/password-checker/part1/", "option": "js"}'     https://automark-sdn7qm5gxa-ew.a.run.app/api/review-code\n
+   34  ls
+   35  pwd
+   36  ls
+   37  cd documents
+   38  cd Documents
+   39  ls
+   40  cd Lindokuhle
+   41  ls
+   42  cd projects
+   43  ls
+   44  cd ..
+   45  ls
+   46  cd memoryGame
+   47  ls
+   48  firefox index.html
+   49  cd ..
+   50  ls
+   51  cd ..
+   52  ls
+   53  cd Lindokuhle
+   54  ls
+   55  cd node
+   56  ls
+   57  cd ..
+   58  ls
+   59  cd memoryGame
+   60  ls
+   61  vim SpecRunner.html
+   62  nano SpecRunner.html
+   63  ls
+   64  jasmine spec/memorySpec.js
+   65  cd ..
+   66  ls
+   67  cd memoryGame
+   68  ls
+   69  cd spec
+   70  ls
+   71  nano memorySpec.js
+   72  ls
+   73  cd ..
+   74  ls
+   75  cd ..
+   76  ls
+   77  cd Practice
+   78  ls
+   79  cd ..
+   80  ls
+   81  cdc mem
+   82  cd memG
+   83  ls
+   84  jasmine spec/MemoryGameSpec.js
+   85  jasmine spec/memorySpec.js
+   86  ls
+   87  nano spec/memorySpec.js
+   88  ls
+   89  cd nodeExercises
+   90  ls
+   91  cd src
+   92  ls
+   93  nano Visitor
+   94  git apt update
+   95  sudo apt update
+   96  sudo apt upgrade
+   97  curl --header "Content-Type: application/json"     --request POST     --data '{"repoUrl": "https://github.com/tarbielee/simple_calculatorPary1.git", "projectIdentifier": "tdd/simple-calculator-part1", "option": "js"}'     https://automark-sdn7qm5gxa-ew.a.run.app/api/review-code\n
+   98  git clone 
+   99  git clone https://github.com/krattz/calculator-v1.0.git
+  100  curl --header "Content-Type: application/json"     --request POST     --data '{"repoUrl": "https://github.com/XolaniMgube/password-checker.git", "projectIdentifier": "projects/tdd/password-checker/part1/", "option": "js"}'     https://automark-sdn7qm5gxa-ew.a.run.app/api/review-code\n
+  101  curl https://automark-sdn7qm5gxa-ew.a.run.app/api/available_options\n
+  102  pwd
+  103  ls
+  104  cd ~/Desktop
+  105  git clone https://github.com/kabirbaidhya/react-todo-app.git~
+  106  git clone https://github.com/kabirbaidhya/react-todo-app.git
+  107  cd react-todo-app
+  108  ls
+  109  code .
+  110  git clone https://github.com/Umuzi-org/managment-info-sys.git
+  111  cd managment-info-sys
+  112  code .
+  113  git clone https://github.com/Umuzi-org/managment-info-sys.git
+  114  git clone
+  115  git clone https://github.com/Umuzi-org/Tilde.git
+  116  ..c
+  117  code .
+  118  git clone https://github.com/Umuzi-org/Tilde.git
+  119  git clone https://github.com/bongivilakazi/simple_calculator_resubmitted.git
+  120  code..
+  121  code .
+  122  git clone https://github.com/Umuzi-org/Tilde.git
+  123  git clone  https://github.com/Umuzi-org/Tilde.git\n
+  124  git clone https://github.com/Umuzi-org/Tilde.git
+  125  git clone https://github.com/seebuudaa/password_checker.git
+  126  git clone https://github.com/seebuudaa/memoryGame.git
+  127  git clone https://github.com/bongivilakazi/memory_Game_Vanilla_js.git
+  128  git clone https://github.com/Karabo9723/Memory-Game.git
+  129  git clone https://github.com/bongivilakazi/memory_Game_Vanilla_js.git
+  130  git clone https://github.com/Lentswe215/Node_and_File_io.git
+  131  git clone https://github.com/Umuzi-org/Tilde.git
+  132  git clone  https://github.com/Umuzi-org/Tilde.git\n
+  133  git clone https://github.com/tarbielee/memoryGame.git
+  134  code .
+  135  git clone https://github.com/Umuzi-org/Tilde.git
+  136  code .
+  137  git clone https://github.com/Umuzi-org/Tilde.git
+  138  code .
+  139  cd Tilde
+  140  code .
+  141  git clone https://github.com/Umuzi-org/Tilde.git
+  142  cd Tilde
+  143  code .
+  144  git clone https://github.com/Umuzi-org/Tilde.git
+  145  code .
+  146  cd ../
+  147  cd Tilde
+  148  git clone https://github.com/Umuzi-org/Tilde.git
+  149  cd Tilde
+  150  code .
+  151  git clone https://github.com/Nkosi97/simplecalculator1.git
+  152  cd simplecalculator1
+  153  code .
+  154  git clone https://github.com/thembela1999/calculator.git
+  155  cd calculator
+  156  code .
+  157  git clone https://github.com/Yanga24/simplecalculator1.git
+  158  cd calculator
+  159  git clone https://github.com/Yanga24/simplecalculator1.git
+  160  cd simplecalculator1
+  161  code .
+  162  cd ../
+  163  git clone https://github.com/VeeMagwaza/simple-calculator.git
+  164  cd simple-calculator
+  165  code .
+  166  git clone https://mail.google.com/mail/u/1/\#inbox
+  167  git clone https://github.com/Umuzi-org/product-external-squarz.git
+  168  cd product-external-squarz
+  169  code .
+  170  git clone https://github.com/Maza455/simplecalc.git
+  171  git clone https://github.com/Umuzi-org/Tilde.git
+  172  cd Tilde
+  173  code .
+  174  git clone https://github.com/Karabo9723/node-file-io.git
+  175  git clone https://github.com/tarbielee/nodeio.git
+  176  git clone https://github.com/tarbielee/portfolio-site.git
+  177  sudo apt update
+  178  sudo apt upgrade
+  179  npm install react-redux
+  180  git clone https://github.com/Umuzi-org/product-external-squarz.git
+  181  npm install
+  182  npm install -g
+  183  sudo apt install nodejs\n
+  184  git clone https://github.com/Umuzi-org/product-external-squarz.git
+  185  git clone https://github.com/lebohang0824/node-sql.git
+  186  git clone https://github.com/tarbielee/nodeio.git
+  187  git clone https://github.com/seebuudaa/simple_calculator_part2.git
+  188  git clone https://github.com/Karabo9723/passwordChecker.git
+  189  git clone https://github.com/Umuzi-org/product-external-squarz.git
+  190  docker ps
+  191  sudo docker ps
+  192  cd product-external-squarz
+  193  tree
+  194  pip install tree
+  195  ls
+  196  source venv/bin/activate
+  197  cd database
+  198  ls
+  199  cd localhost
+  200  ls
+  201  docker-compose up
+  202  cd ../
+  203  source venv/bin/activate
+  204  cd backend
+  205  ls
+  206  python manage.py runserver
+  207  cd ../
+  208  source venv/bin/activate
+  209  ls
+  210  cd frontend
+  211  npm start
+  212  code .
+  213  cd ../
+  214  cd database/localhost
+  215  code .
+  216  source venv/bin/activate
+  217  cd ../
+  218  source venv/bin/activate
+  219  cd database/localhost
+  220  ls
+  221  source venv/bin/activate
+  222  cd ../
+  223  source venv/bin/activate
+  224  cd backend
+  225  ls
+  226  python main.py runserver
+  227  python main.py 
+  228  code .
+  229  python populate_db_with_fake_data.py
+  230  python
+  231  ls
+  232  cd ../
+  233  ls
+  234  cd ../
+  235  ls
+  236  cd database
+  237  ls
+  238  cd ../
+  239  cd backend
+  240  ls
+  241  python manage.py dbshell
+  242  sudo apt-get install postgresql-client\n
+  243  python manage.py dbshell
+  244  ls
+  245  python manage.py shell
+  246  source venv/bin/activate
+  247  ls
+  248  python populate_db_with_fake_data.py
+  249  python3 populate_db_with_fake_data.py
+  250  pip freeze
+  251  python -m pip install django
+  252  python3 populate_db_with_fake_data.py
+  253  pip freeze
+  254  cd ../
+  255  cd backend
+  256  cd ../
+  257  source venv/bin/activate
+  258  cd backend
+  259  python populate_db_with_fake_data.py
+  260  python -m pip install django
+  261  python populate_db_with_fake_data.py
+  262  source venv/bin/activate
+  263  cd product-external-squarz
+  264  source venv/bin/activate
+  265  cd product-external-squarz
+  266  source venv/bin/activate
+  267  cd product-external-squarz
+  268  source venv/bin/activate
+  269  cd database/localhost
+  270  docker-compose up
+  271  cd backend
+  272  pip3 install -r requirements.txt\n
+  273  git clone https://github.com/Umuzi-org/Tilde.git
+  274  cd Tilde
+  275  code .
+  276  mdkir cc
+  277  git mdkir cc
+  278  cd prep
+  279  cd pre
+  280  git clone https://github.com/ofentsesambo/sql.git
+  281  git clone https://github.com/TebohoRomeo/Docker-sql.git
+  282  git clone https://github.com/kurtlin703/sql.git
+  283  git clone https://github.com/seebuudaa/sql.git
+  284  git clone https://github.com/tarbielee/docker.git
+  285  git clone https://github.com/XolaniMgube/mysql.git
+  286  git clone https://github.com/Lentswe215/SQL.git
+  287  git clone https://github.com/Lebogang-cloud/SQL-Project.git
+  288  git clone https://github.com/tarbielee/docker.git
+  289  git clone https://github.com/bongivilakazi/SQL.git
+  290  sudo apt update
+  291  sudo apt upgrade
+  292  git clone https://github.com/Nelani123/oop.javascript.git
+  293  cd oop.javascript
+  294  code .
+  295  cd ../
+  296  git clone https://github.com/thembela1999/Object-Orientated-Programme.git
+  297  cd Object-Orientated-Programme
+  298  code .
+  299  cd ../
+  300  git clone https://github.com/Anda2000/OOP.git
+  301  cd OOP
+  302  code .
+  303  cd Doc
+  304  ls
+  305  cd Documents
+  306  ls
+  307  linux
+  308  ls
+  309  cd Documents
+  310  mkdir linux
+  311  ls
+  312  cd linux
+  313  touch commands.js
+  314  nano 
+  315  cd ../
+  316  ls
+  317  pwd
+  318  ls
+  319  pwd
+  320  ls
+  321  cd Desktop
+  322  mkdir recruit
+  323  cd recruit
+  324  touch tshiamo.js
+  325  nano 
+  326  sudo apt upgrade
+  327  git clone https://github.com/Umuzi-org/Tilde.git
+  328  cd Tilde
+  329  code .
+  330  git clone https://github.com/Umuzi-org/Tilde.git
+  331  cd Tilde
+  332  code .
+  333  https://github.com/Umuzi-org/Tilde.git
+  334  git clone https://github.com/Umuzi-org/Tilde.git
+  335  sudo apt update
+  336  sudo apt upgrade
+  337  git clone https://github.com/Umuzi-org/Tilde.git
+  338  sudo snap install discord\n
+  339  pwd
+  340  ls
+  341  git clone https://github.com/Umuzi-org/product-external-squarz.git
+  342  cd product-external-squarz
+  343  code ..
+  344  mkdir exprC17
+  345  cd exprC17
+  346  git clone https://github.com/bongivilakazi/expressions.git
+  347  git clone https://github.com/tarbielee/Express-forms-and-templates.git
+  348  git clone https://github.com/Lentswe215/node_and_express.git
+  349  git clone https://github.com/kurtlin703/node_and_sql.git
+  350  git clone https://github.com/XolaniMgube/express.git
+  351  git clone https://github.com/seebuudaa/node_express.git
+  352  git clone https://github.com/Lebogang-cloud/Express-Forms-Project.git
+  353  git clone https://github.com/Umuzi-org/Tilde.git
+  354  git clone https://github.com/Umuzi-org/product-external-squarz.git
+  355  cd product-external-squarz
+  356  code ..
+  357  git clone https://github.com/Concellia/basic_AlgorithmP1.git
+  358  git clone https://github.com/Umuzi-org/product-external-squarz.git
+  359  cd Documents
+  360  cd portfolio-with-React
+  361  npm install create-react-app 
+  362  npm create-react-app ${my-portfolio}
+  363  npm install
+  364  npm create-react-app ${my-portfolio}
+  365  alias npm create-react-app ${my-portfolio}
+  366  npm -v
+  367  sudo apt-get install -y nodejs\n
+  368  npm create-react-app ${my-portfolio}
+  369  npm run server.js
+  370  cd ../
+  371  npm install create-react-app 
+  372  npm create-react-app ${my-portfolio}
+  373  ls
+  374  whereis react
+  375  react -v
+  376  npm -v
+  377  cd Documents
+  378  cd portfolio-with-React
+  379  git clone https://github.com/dbarochiya/me.git
+  380  code .
+  381  git clone https://github.com/Shaheedah/LindokuhleMomoza.github.io.git
+  382  cd LindokuhleMomoza.github.io
+  383  code .
+  384  git clone https://github.com/thatOkeBrett/Portfolio.git
+  385  git clone https://github.com/Katudii/personal-website.git
+  386  git clone https://github.com/Shaheedah/LindokuhleMomoza.github.io.git
+  387  mkdir api
+  388  cd api
+  389  mkdir xolani
+  390  cd xolani
+  391  git clone https://github.com/XolaniMgube/exposing-json-api.git
+  392  cd ../
+  393  mkdir bongi
+  394  cd bongi
+  395  git clone https://github.com/bongivilakazi/api.git
+  396  cd ../
+  397  mkdir kurt
+  398  cd kurt
+  399  git clone https://github.com/kurtlin703/node_and_sql.git
+  400  cd ../
+  401  mkdir tarbie
+  402  cd tarbie
+  403  cd ../
+  404  mkdir lebo
+  405  cd lebo
+  406  git clone https://github.com/Lebogang-cloud/NodeSQL-PROJECT.git
+  407  cd ../
+  408  mkdir romeo
+  409  cd romeo
+  410  git clone https://github.com/TebohoRomeo/Exposing-API.git
+  411  cd ../
+  412  mkdir sbu
+  413  cd sbu
+  414  git clone https://github.com/seebuudaa/express_api.git
+  415  cd ../
+  416  cd tarbie
+  417  git clone https://github.com/tarbielee/json_api.git
+  418  cd c21person/andisiwe
+  419  git clone https://github.com/andisiwe1994/Person.js.git
+  420  cd ../
+  421  cd boitumelo
+  422  git clone https://github.com/jbrasepae/OOP-Person-Project.git
+  423  cd ../
+  424  cd fezile
+  425  git clone https://github.com/Fez93/javascript-projects.git
+  426  cd ../
+  427  cd nokukhanya
+  428  git clone https://github.com/nokukhanyasidu/person-project.git
+  429  cd ../
+  430  cd phindile
+  431  git clone https://github.com/Ph1nd1/PersonOOP.git
+  432  cd ../
+  433  cd rixongile
+  434  git clone https://github.com/lednah88/Person.git
+  435  cd ../
+  436  cd simon
+  437  git clone https://github.com/SimonZikhali/class-person.js.git
+  438  cd ../
+  439  cd siyamthanda
+  440  git clone https://github.com/siyamthandamkhonzana/person-OOP.git
+  441  cd ../
+  442  cd sizwezakhe
+  443  git clone https://github.com/Sizwe-BlackStatus/OOP-Person.git
+  444  cd ../
+  445  cd tlhalefo
+  446  git clone https://github.com/TlhalefoSisa1/OOP-person.git
+  447  cd c19StringCalc
+  448  mkdir nkosinathi
+  449  cd nkosinathi
+  450  git clone https://github.com/Nkosi97/StringCalculator.git
+  451  cd ../
+  452  mkdir yanga
+  453  cd yanga
+  454  git clone https://github.com/Yanga24/string-calculator.git
+  455  cd ../
+  456  mkdir khanya
+  457  cd khanya
+  458  git clone https://github.com/Nelani123/stringcalculator.git 
+  459  cd ../
+  460  mkdir thembela
+  461  cd thembela
+  462  git clone https://github.com/thembela1999/stringCalculator.git
+  463  cd ../
+  464  mkdir nuraan
+  465  cd nuraan
+  466  git clone https://github.com/nuraanNinah/string_calculator.git
+  467  cd c21person
+  468  cd nomanha
+  469  git clone https://github.com/BrownxGirl/Person-Class.git
+  470  cd ../
+  471  cd antornett
+  472  git clone https://github.com/Anttonertmaphosa/learning-javascript-.git
+  473  git clone https://github.com/Umuzi-org/Tilde.git
+  474  cd c21person/
+  475  mkdir mpontshane
+  476  cd mpontshane
+  477  git clone https://github.com/sizwempontshane/oop-exercise-person.git
+  478  cd ../
+  479  cd rixongile
+  480  git clone https://github.com/lednah88/Person.git
+  481  cd c21
+  482  cd siyandaD
+  483  git clone https://github.com/Siyanda17/simple_calculator_Re-Resubmission.git
+  484  cd ../
+  485  cd andisiwe
+  486  git clone https://github.com/andisiwe1994/simple-calculator-1.js.git
+  487  cd ../
+  488  cd c17
+  489  cd tabie
+  490  cd ../
+  491  cd c17
+  492  cd lethabo
+  493  git clone https://github.com/tarbielee/person-js.git
+  494  cd ../
+  495  cd utilities
+  496  ls
+  497  ^[[200~mkvirtualenv <venv_name>
+  498  mkvirtualenv -p $(which python3.7) umuzi-utilities
+  499  pip3 install virtualenv\n
+  500  mkvirtualenv -p $(which python3.7) umuzi-utilities
+  501  whereis python
+  502  python -v
+  503  sudo pip3 install virtualenvwrapper
+  504  mkvirtualenv -p $(which python3.7) umuzi-utilities
+  505  pip3 install virtualenv\n
+  506  mkvirtualenv -p $(which python3.7) umuzi-utilities
+  507  sudo apt update
+  508  sudo pip3 install virtualenv\n
+  509  mkvirtualenv -p $(which python3.7) umuzi-utilities
+  510  virtualenv -p $(which python3.7) umuzi-utilities
+  511  ls
+  512  nano ~/umuzi-utilities/bin/activate
+  513  workon umuzi-utilities
+  514  source umuzi-utilities/bin/activate
+  515  ls
+  516  cd utilities
+  517  ls
+  518  python3 code_submission_cloner.py --cohort="C16 web"
+  519  pip3 install -r requirements.txt
+  520  python3 code_submission_cloner.py --cohort="C17 web"
+  521  nano ~/umuzi-utilities/bin/activate
+  522  python3 code_submission_cloner.py --cohort="C17 web"
+  523  nano ~/umuzi-utilities/bin/activate
+  524  python3 code_submission_cloner.py --cohort="C17 web"
+  525  nano ~/umuzi-utilities/bin/activate
+  526  source GOOGLE_SHEETS_CREDENTIALS_FILE
+  527  source /.bash_profile
+  528  source /.bash_rc
+  529  \nsource /usr/local/bin/virtualenv.sh
+  530  ls
+  531  cd ../
+  532  ls
+  533  cd umuzi-utilities
+  534  ls
+  535  cd bin
+  536  ls
+  537  nano ~/umuzi-utilities/bin/activate
+  538  source umuzi-utilities/bin/activate
+  539  cd utilities
+  540  python3 code_submission_cloner.py --cohort="C17 web"
+  541  nano ~/umuzi-utilities/bin/activate
+  542  \nsource /lindokuhle/local/bin/virtualenv.sh
+  543  \nsource /home/lindokuhle/local/bin/virtualenv.sh
+  544  source GOOGLE_SHEETS_CREDENTIALS_FILE
+  545  cd c21
+  546  cd nomanha
+  547  git clone https://github.com/BrownxGirl/Person-Class.git
+  548  cd ../
+  549  cd antornett
+  550  git clone https://github.com/Anttonertmaphosa/OOP-person.git
+  551  cd ../
+  552  cd siyabulela
+  553  git clone https://github.com/Siyabulela/Week-5-Person.git
+  554  cd ../
+  555  cd brett
+  556  git clone https://github.com/thatOkeBrett/oop-project.git
+  557  cd ../
+  558  cd tshiamoo
+  559  git clone https://github.com/tshiamomahloko/oop_exercise_beginner.git
+  560  cd ../
+  561  cd fezile
+  562  git clone https://github.com/Fez93/javascript-projects.git
+  563  cd ../
+  564  cd nandi
+  565  mkdir person
+  566  cd person
+  567  git clone https://github.com/nandiKhumalo30/person.git
+  568  cd ../
+  569  mkdir simpleCalc
+  570  cd simpleCalc
+  571  git clone https://github.com/nandiKhumalo30/simple_calculator.git
+  572  cd ../
+  573  cd antornett
+  574  git clone https://github.com/Anttonertmaphosa/OOP-person.git
+  575  sudo apt get update
+  576  sudo apt-get update
+  577  sudo apt upgrade
+  578  sudo apt install simplescreenrecorder
+  579  cd c21/tlhalefo
+  580  git clone https://github.com/TlhalefoSisa1/person_OOP.git
+  581  cd ../
+  582  cd simon
+  583  git clone https://github.com/SimonZikhali/tdd_person.js.git
+  584  cd ../
+  585  cd fezile
+  586  git clone https://github.com/Fez93/oop-person.git
+  587  cd ../..
+  588  git clone https://github.com/Johan-Khanye/metro-bus-external-project.git
+  589  mkdir testNative
+  590  cd testNative
+  591  npm install -g expo-cli
+  592  git clone https://github.com/seebuudaa/node_express.git
+  593  cd testNative
+  594  pkg install node
+  595  ^[[200~npm install -g expo-cli
+  596  npm install -g expo-cli\n
+  597  npm install
+  598  npm install -g expo-cli\n
+  599  npm login
+  600  npm install -g expo-cli\n
+  601  npm login
+  602  npm install
+  603  npm install -g expo-cli\n
+  604  npm config set unsafe-perm=true
+  605  npm install -g expo-cli\n
+  606  npm install expo-cli\n
+  607  expo init AwesomeProject
+  608  npm audit fix
+  609  sudo apt update
+  610  sudo apt instal nodejs npm
+  611  sudo apt install nodejs npm
+  612  nodejs --version
+  613  sudo apt install npm
+  614  npm -v
+  615  npm install -g react-native-cli
+  616  curl -0 -L https://npmjs.org/install.sh | sudo sh
+  617  npm install -g react-native-cli
+  618  sudo chown -R $USER /usr/local/lib/node_modules
+  619  sudo chown -R $USER ~/.npm\n
+  620  ^[[200~sudo chown -R $USER /usr/lib/node_modules
+  621  nvm install 8.0.0\n
+  622  rm -rf node_modules && rm ./package-lock.json && npm install\n
+  623  git clone https://github.com/Umuzi-org/Tilde.git
+  624  cd testNative
+  625  npm -v
+  626  npm install -g react-native-cli\n
+  627  cd c21/tlhalefo
+  628  git clone https://github.com/TlhalefoSisa1/OPP-Person.git
+  629  cd ../andisiwe
+  630  git clone https://github.com/andisiwe1994/simple_calculator_part1.git
+  631  cd testNative
+  632  sudo apt update
+  633  sudo apt install nodejs npm
+  634  nodejs --version﻿
+  635  nodejs --version
+  636  sudo apt install npm
+  637  npm -v
+  638  npm install -g react-native-cli
+  639  curl -0 -L https://npmjs.org/install.sh | sudo sh
+  640  sudo add-apt-repository ppa:webupd8team/java\n
+  641  sudo apt update\n
+  642  sudo apt install oracle-java8-installer
+  643  javac -version﻿
+  644  javac -version
+  645  sudo apt-get install python-software-properties
+  646  sudo apt-get install oracle-java8-installer
+  647  sudo -E add-apt-repository ppa:openjdk-r/ppa
+  648  sudo apt-get update
+  649  sudo apt-get install openjdk-8-jdk
+  650  sudo apt install ffmpeg
+  651  sudo add-apt-repository ppa:obsproject/obs-studio
+  652  sudo apt install obs-studio
+  653  cd c21/phindile
+  654  git clone https://github.com/Umuzi-org/Phindile-Mkhize-258-password-checker.git
+  655  mkdir reactReviews
+  656  cd reactReviews
+  657  mkdir portia
+  658  cd portia/git clonehttps://github.com/Portia-arch/TokMore_ChatApp.git
+  659  cd portia/ git clonehttps://github.com/Portia-arch/TokMore_ChatApp.git
+  660  cd portia
+  661  git clone https://github.com/Portia-arch/TokMore_ChatApp.git
+  662  cd ../
+  663  mkdir lwazi
+  664  cd lwazi
+  665  git clone https://github.com/Gugulethu-webdev/The-Snake-Game.git
+  666  git clone https://github.com/Umuzi-org/Tilde.git
+  667  cd c21
+  668  mkdir kaleem
+  669  cd kaleem
+  670  git clone https://github.com/Umuzi-org/Mohammed-Kaleem-258-password-checker.git
+  671  cd ../tlhalefo
+  672  git clone https://github.com/TlhalefoSisa1/OOP-person.git
+  673  git clone
+  674  git clone https://github.com/kubowania/memory-game.git
+  675  git clone https://github.com/Umuzi-org/product-external-squarz.git
+  676  cd c21
+  677  git clone https://github.com/anele-manaka/Simple-Calculator.git
+  678  cd simon
+  679  git clone https://github.com/SimonZikhali/tdd_person.js.git
+  680  git clone https://github.com/Umuzi-org/Tilde.git
+  681  git clone https://github.com/Umuzi-org/product-external-squarz.git
+  682  sudo apt install ffmpeg\n\n
+  683  sudo apt install obs-studio\n\n
+  684  sudo dpkg --configure -a
+  685  sudo apt install obs-studio\n\n
+  686  sudo apt-get install -f
+  687  sudo apt-get upgrade
+  688  sudo apt install obs-studio\n\n
+  689  sudo aptitude install
+  690  sudo ap install
+  691  sudo apt install
+  692  sudo apt install libfdk-aac1
+  693  sudo apt install libluajit-5.1-2
+  694  sudo apt-get update\n
+  695  sudo apt install libluajit-5.1-2
+  696  git clone git@github.com:Umuzi-org/Khanya-Nelani-280-node-file-io.git
+  697  git clone https://github.com/Umuzi-org/Khanya-Nelani-280-node-file-io
+  698  git clone https://github.com/Umuzi-org/Thembela-Selani-280-node-file-io
+  699  git clone git@github.com:Umuzi-org/Thembela-Selani-280-node-file-io.git
+  700  git clone git@github.com:Umuzi-org/Nuraan-Barnes-222-memory-game-in-vanilla-js.git
+  701  git clone https://github.com/Umuzi-org/Nuraan-Barnes-222-memory-game-in-vanilla-js
+  702  ..code
+  703  cd ..code
+  704  git clone https://github.com/Umuzi-org/Nuraan-Barnes-222-memory-game-in-vanilla-js
+  705  ^[[200~For backend:
+  706  export GOOGLE_OAUTH_ONE_TIME_CLIENT_SECRET_FILE="/path/to/tilde1-google-oauth-onetime-creds-localhost.json"
+  707  For Frontend:
+  708  mkdir .secrets
+  709  mv ~/Downloads/tilde1-google-oauth-onetime-creds-localhost.json .secrets
+  710  mv ~/Downloads/tilde1-google-oauth-onetime-creds-localhost.json.key  .secrets
+  711  mv .secrets/tilde1-google-oauth-onetime-creds-localhost.json.key .secrets/tilde1-google-oauth-onetime-creds-localhost.json
+  712  ls .secrets
+  713  ls 
+  714  pwd
+  715  touch tildeenv.sh
+  716  nano tildeenv.sh
+  717  cd .secrets
+  718  pwd
+  719  ls
+  720  source tildeenv.sh
+  721  cat $GOOGLE_OAUTH_ONE_TIME_CLIENT_SECRET_FILE
+  722  nano tildeenv.sh
+  723  cd ..
+  724  source tildeenv.sh
+  725  cat $GOOGLE_OAUTH_ONE_TIME_CLIENT_SECRET_FILE
+  726  nano tildeenv.sh
+  727  git clone https://github.com/Umuzi-org/Tilde.git
+  728  cd c21/anele
+  729  git clone https://github.com/anele-manaka/Simple-Calculator.git
+  730  cd ../
+  731  cd nomanha
+  732  git clone Umuzi-org/Nomanna-Mavata-186-consume-github-api.git
+  733  git clone Nomanna-Mavata-186-consume-github-api.git
+  734  cd ../
+  735  cd kaleem
+  736  git clone git@github.com:Umuzi-org/Mohammed-Kaleem-186-consume-github-api.git
+  737  history
+  738  cd ../..
+  739  nano tildeenv.sh
+  740  git clone https://github.com/Umuzi-org/Tilde.git
+  741  cd c17
+  742  cd sbu
+  743  git clone https://github.com/sbu9/oop-person.git
+  744  git clone https://github.com/seebuudaa/jskata.git
+  745  git clone https://github.com/seebuudaa/memoryGame.git
+  746  git clone https://github.com/seebuudaa/nodeJsExersize.git
+  747  cd ../
+  748  cd kurt
+  749  git clone https://github.com/kurtlin703/node_-_file.git
+  750  cd ../
+  751  cd sbu
+  752  git clone https://github.com/sbu9/oop-person.git
+  753  git clone https://github.com/seebuudaa/jskata.git
+  754  git clone https://github.com/Umuzi-org/Tilde.git\\n
+  755  git clone https://github.com/Umuzi-org/Tilde.git
+  756  cd c17/ofentse
+  757  ls
+  758  pwd
+  759  git clone https://github.com/ofentsesambo/passwordChecker.git
+  760  cd ../
+  761  cd xolani
+  762  git clonne https://github.com/XolaniMgube/node-sql.git
+  763  git clone https://github.com/XolaniMgube/node-sql.git
+  764  cd ../..
+  765  npm install dotenv
+  766  npm install axios
+  767  npm install pg
+  768  npm install react-chartjs-2
+  769  cd c17/lebo
+  770  git clone https://github.com/Lebogang-cloud/StringCalculator.git
+  771  code .
+  772  cd ../ofentse
+  773  git clone https://github.com/ofentsesambo/stringCalculator.git
+  774  code .
+  775  cd c19/nkosinathi
+  776  git clone https://github.com/Nkosi97/oop.git
+  777  cd oop
+  778  cd ../
+  779  code .
+  780  cd ../andisiwe
+  781  git clone https://github.com/andisiwe1994/katas.git
+  782  code .
+  783  cd ../..
+  784  cd c17
+  785  cd kurt
+  786  git clone https://github.com/kurtlin703/kurtlin.github.io.git
+  787  git clone https://github.com/kurtlin703/string_calculator.git
+  788  cd string_calculator
+  789  code .
+  790  cd ../../..
+  791  cd c17/lebo
+  792  git clone https://github.com/Lebogang-cloud/personal-website.git
+  793  cd personal-website
+  794  code .
+  795  cd c19/nkosinathi
+  796  git clone https://github.com/Nkosi97/oop.git
+  797  code .
+  798  cd c19/nkosinathi
+  799  git clone https://github.com/Nkosi97/oop.git
+  800  git clone https://github.com/Nkosi97/simpleCalculatorPart2.git
+  801  git clone https://github.com/Nkosi97/StringCalculator.git
+  802  git clone https://github.com/Nkosi97/PasswordChecker.git
+  803  cd ../anda
+  804  git clone https://github.com/Anda2000/Password_Checker.git
+  805  git clone https://github.com/Anda2000/OOP.git
+  806  git clone https://github.com/Umuzi-org/Anda-Pika-222-memory-game-in-vanilla-js.git
+  807  cd ../andisiwe
+  808  git clone https://github.com/andisiwe1994/katas.git
+  809  git clone https://github.com/andisiwe1994/linux-begginer-challenges.git
+  810  git clone https://github.com/andisiwe1994/git-basic-excercise.git
+  811  cd ../thembela
+  812  git clone https://github.com/Umuzi-org/Thembela-Selani-220-build-your-first-personal-website-.git
+  813  git clone https://github.com/Umuzi-org/Thembela-Selani-223-person-.git
+  814  git clone https://github.com/Umuzi-org/Thembela-Selani-273-simple-calculator-part-1-.git
+  815  git clone https://github.com/Umuzi-org/Thembela-Selani-224-animals-part-1-oop-basics-.git
+  816  sudo apt update discord
+  817  git clone https://github.com/Umuzi-org/Tilde.git
+  818  cd c17/lebo
+  819  git clone https://github.com/Lebogang-cloud/StringCalculator.git
+  820  cd ../
+  821  cd romeo
+  822  git clone https://github.com/TebohoRomeo/Person.git
+  823  git clone https://github.com/TebohoRomeo/Animal-Part1.git
+  824  cd ../xolani
+  825  git clone https://github.com/TebohoRomeo/Animal-Part1.git
+  826  git clone https://github.com/XolaniMgube/node-sql.git
+  827  cd ../romeo
+  828  git clone https://github.com/TebohoRomeo/Person.git
+  829  cd c19/thembela
+  830  git clone https://github.com/Umuzi-org/Thembela-Selani-273-simple-calculator-part-1-.git
+  831  code .
+  832  git clone https://github.com/Umuzi-org/Thembela-Selani-223-person-.git
+  833  cd ../and
+  834  cd ../anda
+  835  git clone https://github.com/Anda2000/Product-Landing-Page.git
+  836  cd c19/thembela
+  837  git clone https://github.com/Umuzi-org/Thembela-Selani-222-memory-game-in-vanilla-js.git
+  838  git clone https://github.com/Shaheedah/Tilde.git
+  839  mkdir hack
+  840  cd hack
+  841  git clone https://github.com/Shaheedah/Tilde.git
+  842  cd c19/thembela
+  843  git clone https://github.com/Umuzi-org/Thembela-Selani-266-string-calculator-.git
+  844  cd ../
+  845  mkdir bridgingCourse
+  846  cd bridgingCourse/
+  847  mkdir nuraan
+  848  cd nuraan
+  849  git clone https://github.com/nuraanNinah/FCC_techdocument.git
+  850  cd ../
+  851  mkdir khanya
+  852  mkdir anda
+  853  mkdir yanga
+  854  mkdir simon
+  855  cd anda
+  856  git clone https://github.com/Anda2000/Technical-Documantation-Page.git
+  857  cd ../
+  858  cd khanya
+  859  git clone https://github.com/Nelani123/Technical-Document.git
+  860  cd ../
+  861  cd simon
+  862  git clone https://github.com/SimonZikhali/technical-documentation-page.git
+  863  cd ../
+  864  cd yanga
+  865  git clone https://github.com/Yanga24/Technicl-document.git
+  866  cd c19/andi
+  867  cd c19/andisiwe
+  868  git clone https://github.com/Umuzi-org/Andisiwe-Nkwana-269-password-checker.git
+  869  git clone https://github.com/Umuzi-org/Andisiwe-Nkwana-186-consume-github-api.git
+  870  cd ../thembela
+  871  git clone https://github.com/Umuzi-org/Thembela-Selani-269-password-checker-.git
+  872  git clone https://github.com/Umuzi-org/Thembela-Selani-222-memory-game-in-vanilla-js.git
+  873  git clone https://github.com/Umuzi-org/Thembela-Selani-280-node-file-io.git
+  874  git clone https://github.com/Umuzi-org/Thembela-Selani-266-string-calculator-.git
+  875  sudo install Remmina
+  876  sudo apt-add-repository ppa:remmina-ppa-team/remmina-next\n
+  877  sudo apt update\n
+  878  sudo apt install remmina remmina-plugin-rdp remmina-plugin-secret\n
+  879  sudo killall remmina
+  880  apt-cache search remmina-plugin
+  881  ppa:remmina-ppa-team/remmina-next-daily
+  882  snap install remmina
+  883  sudo snap connect remmina:avahi-observe :avahi-observe\nsudo snap connect remmina:cups-control :cups-control\nsudo snap connect remmina:mount-observe :mount-observe\nsudo snap connect remmina:password-manager-service :password-manager-service
+  884  chmod 600 ~/Downloads/qwikLABS-L625-21560422.pem
+  885  ssh -i ~/Downloads/qwikLABS-L625-21560422.pem student-02-2f71267a903f@34.123.212.87
+  886  mkdir bootcampReviews
+  887  cd bootcampReviews
+  888  code..
+  889  code .
+  890  git clone https://github.com/Umuzi-org/Thulani-Mabaso-223-person-javascript.git
+  891  git clone https://github.com/Umuzi-org/Mohammed-Kaleem-184-assertive-programming-kata-javascript.git
+  892  git clone https://github.com/Umuzi-org/Thulani-Mabaso-219-level-1-programming-katas-javascript.git
+  893  git clone https://github.com/Umuzi-org/LIONEL-RASEEMELA-223-person-javascript.git
+  894  cd bootcampReviews
+  895  git clone https://github.com/Umuzi-org/RefilweMerriam-Mashile-223-person-javascript.git
+  896  cd bootcampReviews
+  897  git clone https://github.com/adelberd/level-0-coding-challenges.git
+  898  git clone https://github.com/Sizwe-BlackStatus/level-0-coding-challenges.git
+  899  git clone https://github.com/Umuzi-org/Raesebe-Marakalla-219-level-1-programming-katas-javascript.git
+  900  cd reviews
+  901  git clone https://github.com/Umuzi-org/Itumeleng-Matheba-223-person-javascript.git
+  902  git clone https://github.com/Umuzi-org/Gugulethu-Mavimbela-184-assertive-programming-kata-javascript.git
+  903  git clone https://github.com/Umuzi-org/LIONEL-RASEEMELA-223-person-javascript.git
+  904  git clone https://github.com/sizwempontshane/oop-exercise-person.git
+  905  cd ../
+  906  cd tildeProjects
+  907  cd assertive-katas
+  908  git clone https://github.com/Umuzi-org/Lindokuhle-Momoza-184-assertive-programming-kata-.git
+  909  cd ../..
+  910  cd reviews
+  911  git clone https://github.com/Umuzi-org/Nandi-Khumalo-222-memory-game-in-vanilla-js.git
+  912  code .
+  913  git clone https://github.com/siyamthandamkhonzana/Animal-OOP.git
+  914  git clone https://github.com/sizwempontshane/simpple-calculator-part1.git
+  915  git clone https://github.com/sizwempontshane/animals-part1-oop.git
+  916  git clone https://github.com/sizwempontshane/katas-1.git
+  917  git clone https://github.com/Umuzi-org/Ngoako-Ramokgopa-223-person-javascript.git
+  918  git clone https://github.com/sizwempontshane/oop-exercise-person.git
+  919  git clone https://github.com/sizwempontshane/simpple-calculator-part1.git
+  920  git clone https://github.com/sizwempontshane/katas-1.git
+  921  mkdir git-basic-exercises
+  922  cd git-basic-exercises
+  923  ls -a
+  924  git init
+  925  ls -a
+  926  git status
+  927  touch README.md
+  928  ls -a
+  929  git status
+  930  git log
+  931  git add .
+  932  git status
+  933  git rm --cached README.md
+  934  git status
+  935  git add .
+  936  git status
+  937  git commit -m "initial commit"
+  938  git log
+  939  nano README.md
+  940  cat README.md
+  941  git status
+  942  git commit -m "second commit"
+  943  git add .
+  944  git status
+  945  git commit -m "second commit"
+  946  nano README.md
+  947  git add .
+  948  git status
+  949  git commit -m "third commit"
+  950  git log
+  951  git checkout 691a114e8e987ddc386ece645c8e574b4919a775\n
+  952  cat README.md
+  953  git branch
+  954  git checkout master
+  955  cat README.md
+  956  nano README.md
+  957  git branch
+  958  git checkout -b milkshake-flavours
+  959  git branch
+  960  git checkout master
+  961  git checkout milkshake-flavours
+  962  nano milkshakes.md
+  963  git status
+  964  git add .
+  965  git commit -m "added initial flavours"
+  966  git log
+  967  git checkout master
+  968  git log
+  969  git checkout -b history
+  970  git log
+  971  git branch
